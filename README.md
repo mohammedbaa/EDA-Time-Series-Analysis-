@@ -4,14 +4,17 @@
 
 Utilized pandas_datareader and yfinance to fetch Tesla stock data.
 Visualized the stock's volume and high prices over time using matplotlib and seaborn.
+
 📅 Date Manipulation and Analysis:
 
 Converted data to datetime format for precise date-based indexing and manipulation.
 Explored various time-based properties (e.g., year, month, day).
+
 📊 Resampling and Aggregation:
 
 Resampled data to understand annual, quarterly, and monthly trends.
 Generated insightful visualizations, such as bar plots for average opening prices over different periods.
+
 🔄 Rolling Statistics:
 
 Implemented rolling functions to calculate moving averages and smooth out short-term fluctuations.
@@ -23,7 +26,9 @@ Identified periods of high volatility and stability, providing valuable insights
 Check out some of the visualizations and findings from the project below! 📊✨
 
 
+
 🔗 Tools Used:
+
 
 Python: pandas, numpy, pandas_datareader, yfinance
 Visualization: matplotlib, seaborn
